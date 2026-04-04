@@ -1,0 +1,6 @@
+idle_cat,n_sessions,shortfall_rate,mean_shortfall
+No idle,602,0.0,
+Minimal (<30min),1358,0.0,
+Short (30min-2h),736,0.0,
+Medium (2-6h),1984,0.0,
+Long (6h+),1184,0.0,

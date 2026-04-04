@@ -1,0 +1,5 @@
+intervention,sessions_affected,idle_h_reclaimed,pct_baseline
+Alert at 1h,4004,15593.4,78.1
+Fee at 2h,3477,11859.3,59.4
+Fee at 3h,2978,8622.1,43.2
+Dynamic fee (peak hours only),2579,9520.8,47.7
